@@ -1,0 +1,14 @@
+
+本项目使用spring spring mybatis框架
+分页使用 pagehelper插件
+封装了base dao service学生自己查看，每一个方法都有注释
+每一个controller大约300行代码 共15个controller
+依次还有dao service等
+
+后台登陆地址 http://localhost:8080/xymh/login/toLogin.do
+
+前台登陆地址 http://localhost:8080/xymh/login/index.do
+
+注意：在用户点击完关注以后，那么发布相应的内容 关注的人就可以收到消息提示
+
+/*****************************配置注意*****************************************

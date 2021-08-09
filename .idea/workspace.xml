@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cc64ee8-63dc-4d54-b391-14e2e4ef9bc2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/jdknewpoint/jdknewpoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/jdknewpoint/ConstructorRefTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/jdknewpoint/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="73" column="22" lean-forward="true" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/jdknewpoint/EmployeeData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/jdknewpoint/MethodRefTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>parseInt</find>
+      <find>arraylist</find>
+      <find>haseCode</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/july_demo/src/Test7month/TreeSetCompare.java" />
+        <option value="$PROJECT_DIR$/july_demo/src/com/TreeSet/compare/MyDate.java" />
+        <option value="$PROJECT_DIR$/july_demo/src/com/TreeSet/compare/Employee.java" />
+        <option value="$PROJECT_DIR$/july_demo/src/com/TreeSet/compare/TreeSetCompare.java" />
+        <option value="$PROJECT_DIR$/july_demo/src/com/TreeSet/comparable/TreeSetCompare.java" />
+        <option value="$PROJECT_DIR$/july_demo/src/com/TreeSet/comparable/Employee.java" />
+        <option value="$PROJECT_DIR$/july_demo/src/comparable/Employee.java" />
+        <option value="$PROJECT_DIR$/july_demo/src/comparator/Employee.java" />
+        <option value="$PROJECT_DIR$/july_demo/src/com/TreeSet/Comparator/MyDate.java" />
+        <option value="$PROJECT_DIR$/july_demo/src/com/TreeSet/Comparator/Employee.java" />
+        <option value="$PROJECT_DIR$/july_demo/src/com/TreeSet/Comparator/TreeSetCompare.java" />
+        <option value="$PROJECT_DIR$/july_demo/src/Test7month/MapExer/MapTest.java" />
+        <option value="$PROJECT_DIR$/july_demo/src/com/filetest/FileTest.java" />
+        <option value="$PROJECT_DIR$/IOTest/src/io/wkh/test/ReaderTest.java" />
+        <option value="$PROJECT_DIR$/IOTest/src/io/wkh/test/FileInputOutputStreamTest.java" />
+        <option value="$PROJECT_DIR$/IOTest/src/io/wkh/test/ReaderWriterTest.java" />
+        <option value="$PROJECT_DIR$/IOTest/src/io/wkh/test/BufferedTest.java" />
+        <option value="$PROJECT_DIR$/IOTest/src/io/wkh/test/IOexercise.java" />
+        <option value="$PROJECT_DIR$/IOTest/注意事项 - 副本.txt" />
+        <option value="$PROJECT_DIR$/IOTest/src/io/wkh/test/Person.java" />
+        <option value="$PROJECT_DIR$/IOTest/src/io/wkh/test/InputStreamReaderTest.java" />
+        <option value="$PROJECT_DIR$/IOTest/src/io/wkh/test/OtherStreamTest.java" />
+        <option value="$PROJECT_DIR$/IOTest/src/io/wkh/test/MapTest.java" />
+        <option value="$PROJECT_DIR$/IOTest/src/io/wkh/test/RandomAccessFileTest1.java" />
+        <option value="$PROJECT_DIR$/IOTest/hello.txt" />
+        <option value="$PROJECT_DIR$/IOTest/src/io/wkh/test/RandomAccessFileTest.java" />
+        <option value="$PROJECT_DIR$/IOTest/src/io/wkh/sockettest/SocketTest.java" />
+        <option value="$PROJECT_DIR$/IOTest/src/io/wkh/sockettest/TCPTest.java" />
+        <option value="$PROJECT_DIR$/IOTest/src/io/wkh/sockettest/UDPTest.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/reflection/Person.java" />
+        <option value="$PROJECT_DIR$/IOTest/src/io/wkh/sockettest/URLTest.java" />
+        <option value="$PROJECT_DIR$/reflection/jdbc.properties" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/reflection/ReflectionTest.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/reflection/NewInstanceTest.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/reflection1/Creature.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/reflection1/MyInterface.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/reflection1/MyAnnotation.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/reflection2/FieldTest.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/MethodTest.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/reflection2/MethodTest.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/reflection2/OtherTesst.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/reflection2/ReflectionTest.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/reflection1/Person.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/daililei/StaticProxyTest.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/daililei/DynamicProxyTest.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/jdk8910/LambdaTest.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/jdk8910/LambdaTest1.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/jdk8910/LambdaTest2.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/jdknewpoint.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/jdknewpoint/jdknewpoint.java" />
+        <option value="$PROJECT_DIR$/reflection/src/com/kh/jdknewpoint/ConstructorRefTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="825" />
+    <option name="width" value="1055" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="reflection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="reflection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="reflection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="reflection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kh" type="462c0819:PsiDirectoryNode" />
+              <item name="jdknewpoint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.wkh.test" />
+      <recent name="com.TreeSet.Comparator" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace_idea\test\reflection\src\com\kh\jdknewpoint" />
+      <recent name="D:\workspace_idea\test\reflection\src" />
+      <recent name="D:\workspace_idea\test\IOTest\libs" />
+      <recent name="D:\workspace_idea\test\IOTest\src\io\wkh\test" />
+      <recent name="D:\workspace_idea\test\IOTest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LambdaTest2.test2">
+    <configuration name="LambdaTest1.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kh.jdk8910.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kh.jdk8910" />
+      <option name="MAIN_CLASS_NAME" value="com.kh.jdk8910.LambdaTest1" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaTest1.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kh.jdk8910.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kh.jdk8910" />
+      <option name="MAIN_CLASS_NAME" value="com.kh.jdk8910.LambdaTest1" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaTest2.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kh.jdk8910.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kh.jdk8910" />
+      <option name="MAIN_CLASS_NAME" value="com.kh.jdk8910.LambdaTest2" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaTest2.test2 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kh.jdk8910.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kh.jdk8910" />
+      <option name="MAIN_CLASS_NAME" value="com.kh.jdk8910.LambdaTest2" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaTest2.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kh.jdk8910.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kh.jdk8910" />
+      <option name="MAIN_CLASS_NAME" value="com.kh.jdk8910.LambdaTest2" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest.test1" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="july_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TreeSet.comparable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test7month" />
+      <option name="MAIN_CLASS_NAME" value="Test7month.ListTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LambdaTest2.test2" />
+        <item itemvalue="JUnit.LambdaTest2.test2 (1)" />
+        <item itemvalue="JUnit.LambdaTest2.test1" />
+        <item itemvalue="JUnit.LambdaTest1.test5" />
+        <item itemvalue="JUnit.LambdaTest1.test4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cc64ee8-63dc-4d54-b391-14e2e4ef9bc2" name="Default Changelist" comment="" />
+      <created>1620901449051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620901449051</updated>
+      <workItem from="1620901450396" duration="2412000" />
+      <workItem from="1620973490126" duration="2204000" />
+      <workItem from="1621063617971" duration="3278000" />
+      <workItem from="1621563713640" duration="4912000" />
+      <workItem from="1621646763518" duration="7533000" />
+      <workItem from="1621738442758" duration="71000" />
+      <workItem from="1621739765213" duration="606000" />
+      <workItem from="1623832960183" duration="552000" />
+      <workItem from="1623833537103" duration="76000" />
+      <workItem from="1623833633364" duration="320000" />
+      <workItem from="1623834295741" duration="3018000" />
+      <workItem from="1623919523209" duration="2382000" />
+      <workItem from="1623982762736" duration="9192000" />
+      <workItem from="1624177567189" duration="1907000" />
+      <workItem from="1624242360895" duration="2465000" />
+      <workItem from="1624415318140" duration="1354000" />
+      <workItem from="1625311305925" duration="1765000" />
+      <workItem from="1625727393054" duration="7515000" />
+      <workItem from="1625830804834" duration="5562000" />
+      <workItem from="1626009689855" duration="5127000" />
+      <workItem from="1626076148289" duration="7641000" />
+      <workItem from="1626262093453" duration="1411000" />
+      <workItem from="1626519385729" duration="637000" />
+      <workItem from="1626695426992" duration="3996000" />
+      <workItem from="1627298262940" duration="7995000" />
+      <workItem from="1627383264216" duration="8720000" />
+      <workItem from="1627465714804" duration="8511000" />
+      <workItem from="1627550009676" duration="6154000" />
+      <workItem from="1627650108945" duration="2348000" />
+      <workItem from="1627740271906" duration="1409000" />
+      <workItem from="1627743636118" duration="614000" />
+      <workItem from="1627873717113" duration="4372000" />
+      <workItem from="1627993470505" duration="3319000" />
+      <workItem from="1628060188100" duration="25441000" />
+      <workItem from="1628243618579" duration="12097000" />
+      <workItem from="1628330764218" duration="6731000" />
+      <workItem from="1628408793782" duration="12589000" />
+      <workItem from="1628476423448" duration="11350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LambdaTest1_test2 - 2021.08.09 at 14h 28m 22s.xml">
+      <configuration name="LambdaTest1.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest1_test2 - 2021.08.09 at 14h 28m 34s.xml">
+      <configuration name="LambdaTest1.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest1_test3 - 2021.08.09 at 14h 30m 35s.xml">
+      <configuration name="LambdaTest1.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest1_test4 - 2021.08.09 at 14h 33m 46s.xml">
+      <configuration name="LambdaTest1.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest1_test5 - 2021.08.09 at 14h 39m 12s.xml">
+      <configuration name="LambdaTest1.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest2_test1 - 2021.08.09 at 18h 10m 11s.xml">
+      <configuration name="LambdaTest2.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest2_test1 - 2021.08.09 at 18h 19m 47s.xml">
+      <configuration name="LambdaTest2.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest2_test2 - 2021.08.09 at 18h 28m 56s.xml">
+      <configuration name="LambdaTest2.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest2_test2_(1) - 2021.08.09 at 18h 30m 38s.xml">
+      <configuration name="LambdaTest2.test2 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest2_test2 - 2021.08.09 at 18h 31m 25s.xml">
+      <configuration name="LambdaTest2.test2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="187586000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18565683" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32756132" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27272728" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997114" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32756132" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32756132" />
+      <window_info active="true" anchor="bottom" id="Eval Reset" order="13" visible="true" weight="0.32900432" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/july_demo/src/com/filetest/FileTest.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="e2" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/Javajdk/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="972" column="21" lean-forward="true" selection-start-line="972" selection-start-column="21" selection-end-line="972" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOTest/src/io/wkh/test/MapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Javajdk/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4268">
+          <caret line="234" column="22" selection-start-line="234" selection-start-column="22" selection-end-line="234" selection-end-column="22" />
+          <folding>
+            <element signature="e#8731#8732#0" expanded="true" />
+            <element signature="e#8776#8777#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Javajdk/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16808">
+          <caret line="811" column="20" selection-start-line="811" selection-start-column="20" selection-end-line="811" selection-end-column="20" />
+          <folding>
+            <element signature="e#24298#24299#0" expanded="true" />
+            <element signature="e#24363#24364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOTest/src/io/wkh/test/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOTest/hello3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOTest/src/io/wkh/test/RandomAccessFileTest1.java" />
+    <entry file="jar://D:/Javajdk/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="546" column="5" lean-forward="true" selection-start-line="546" selection-start-column="5" selection-end-line="546" selection-end-column="5" />
+          <folding>
+            <element signature="e#117893#117894#0" expanded="true" />
+            <element signature="e#117955#117956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOTest/hello1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/IOTest/libs/commons-io-2.5.jar!/org/apache/commons/io/FileUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3080">
+          <caret line="40" column="53" lean-forward="true" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#52329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOTest/hello.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOTest/src/io/wkh/test/RandomAccessFileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="120" column="32" lean-forward="true" selection-start-line="120" selection-start-column="32" selection-end-line="120" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOTest/微信收款码1.png" />
+    <entry file="file://$PROJECT_DIR$/IOTest/微信收款码.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOTest/微信收款码2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOTest/src/io/wkh/sockettest/TCPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOTest/src/io/wkh/sockettest/SocketTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOTest/hetong1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOTest/src/io/wkh/sockettest/UDPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOTest/src/io/wkh/sockettest/URLTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Javajdk/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="63" column="61" lean-forward="true" selection-start-line="63" selection-start-column="61" selection-end-line="63" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/jdbc1.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/Javajdk/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7920">
+          <caret line="427" column="13" selection-start-line="427" selection-start-column="13" selection-end-line="427" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/reflection/NewInstanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/reflection/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/reflection1/MyInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Javajdk/src.zip!/java/lang/SuppressWarnings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="70" column="21" lean-forward="true" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/reflection1/MyAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/reflection/ReflectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="100" column="35" selection-start-line="100" selection-start-column="35" selection-end-line="100" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/reflection1/Creature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Javajdk/src.zip!/java/lang/reflect/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="75" column="44" lean-forward="true" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+          <folding>
+            <element signature="e#5730#5731#0" expanded="true" />
+            <element signature="e#5762#5763#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Javajdk/src.zip!/java/lang/reflect/Modifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="274" column="7" lean-forward="true" selection-start-line="274" selection-start-column="7" selection-end-line="274" selection-end-column="7" />
+          <folding>
+            <element signature="e#15902#15903#0" expanded="true" />
+            <element signature="e#15940#15941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/reflection2/MethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="93" column="13" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/reflection2/FieldTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/reflection2/OtherTesst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="103" column="35" lean-forward="true" selection-start-line="103" selection-start-column="35" selection-end-line="103" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/reflection1/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+          <folding>
+            <element signature="e#980#981#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/reflection2/ReflectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="114" column="5" lean-forward="true" selection-start-line="114" selection-start-column="5" selection-end-line="114" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Javajdk/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="729" column="43" lean-forward="true" selection-start-line="729" selection-start-column="43" selection-end-line="729" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/daililei/StaticProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/daililei/DynamicProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="84" column="22" lean-forward="true" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Javajdk/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/jdk8910/LambdaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="46" column="36" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="46" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/jdk8910/LambdaTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+            <element signature="e#1172#1173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/jdk8910/LambdaTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#1438#1439#0" expanded="true" />
+            <element signature="e#1492#1493#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/jdknewpoint/jdknewpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/jdknewpoint/ConstructorRefTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/jdknewpoint/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="73" column="22" lean-forward="true" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/jdknewpoint/EmployeeData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection/src/com/kh/jdknewpoint/MethodRefTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>july_demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+dog is dog
+cat is catdog is dog
+cat is cat
